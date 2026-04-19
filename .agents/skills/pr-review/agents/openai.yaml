@@ -1,0 +1,3 @@
+name: pr-review
+model: o3
+description: Reviews pull requests for code quality, correctness, and consistency with project standards
