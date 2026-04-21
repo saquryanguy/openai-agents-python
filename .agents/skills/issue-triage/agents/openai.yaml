@@ -1,0 +1,2 @@
+model: o3
+tools: [read_file, list_files, github_create_label, github_add_labels, github_add_comment, github_list_issues]
